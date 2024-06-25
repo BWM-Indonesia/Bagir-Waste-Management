@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('../images/logobwm.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+nav.navbar {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparansi untuk navbar */
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparansi untuk footer */
+    padding: 1rem 0;
+    width: 100%;
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparansi untuk jumbotron */
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparansi untuk kontainer utama */
+    padding: 2rem;
+    border-radius: 10px;
+}
